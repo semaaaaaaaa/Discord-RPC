@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uefbrj/1.0.0": {
+        "dependencies": {
+          "DiscordRichPresence": "1.143.0"
+        },
+        "runtime": {
+          "uefbrj.dll": {}
+        }
+      },
+      "DiscordRichPresence/1.143.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DiscordRPC.dll": {
+            "assemblyVersion": "1.0.146.0",
+            "fileVersion": "1.0.146.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uefbrj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiscordRichPresence/1.143.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GhVC3nCOoLsJPwDEF2ktRrKPUR4HOs3+8Sj4Qg5f6h6DdpeFEYG/MeRYt5iQD8FF2E9gkBQYRUZE4Ch8ReX/ZA==",
+      "path": "discordrichpresence/1.143.0",
+      "hashPath": "discordrichpresence.1.143.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JlZ0TdCfmO6G4L8MZ5PKPiYpeYCPqCGBkPogKTttrLQbYeJAjkfE7/TYVU44Bmyy7vFl+WNlpQWtCgB0JK0aig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SCC\\Desktop\\New folder\\Projects\\csharp\\uefbrj\\uefbrj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SCC\\.nuget\\packages\\discordrichpresence\\1.143.0\\discordrichpresence.1.143.0.nupkg.sha512",
+    "C:\\Users\\SCC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
